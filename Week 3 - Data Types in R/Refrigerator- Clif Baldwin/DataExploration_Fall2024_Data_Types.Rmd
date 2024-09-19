@@ -62,7 +62,7 @@ primes <- c(2,3,5,7,11)
 primes
 ```
 
-Or we could save the names of the five DSSA professors as a vector
+Or we could save the names of the four DSSA professors as a vector
 
 ```{r}
 professors <- c("Baldwin", "Laurino", "Dunn", "Olsen")
