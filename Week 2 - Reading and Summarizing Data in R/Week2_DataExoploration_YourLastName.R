@@ -1,7 +1,7 @@
 # Your name here 
 # 9/12/2024
 # Data Exploration - Fall 2024
-# Week 1 Practice - Reading and Summarizing Data in R - Melissa Laurino & Dr. Clif Baldwin
+# Week 2 Practice - Reading and Summarizing Data in R - Melissa Laurino & Dr. Clif Baldwin
 
 # Get your working directory. Your working directory is the path to this file. This may look different for PC users/Mac users.
 
