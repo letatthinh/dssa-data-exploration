@@ -6,5 +6,6 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
 - R, R Notebook
 
 ### Folders
+- Week 1 - Syllabus & Introductions
 - Week 2 - Reading & Summarizing Data in R
 - Week 3 - Data Types in R 
