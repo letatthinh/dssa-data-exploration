@@ -7,5 +7,6 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
 
 ### Folders
 - Week 1 - Syllabus & Introductions
+  -Available on Blackboard. 
 - Week 2 - Reading & Summarizing Data in R
 - Week 3 - Data Types in R 
