@@ -9,3 +9,4 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
 - Week 1 - Syllabus & Introductions 
 - Week 2 - Reading & Summarizing Data in R
 - Week 3 - Data Types in R 
+- Week 4 - More Data Types in R
